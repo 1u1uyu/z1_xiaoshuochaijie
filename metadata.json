@@ -1,0 +1,5 @@
+{
+  "name": "短剧剧本生成器",
+  "description": "专业AI工具，将小说一键改编为指定集数的短剧剧本，包含详细分镜和对话。",
+  "requestFramePermissions": []
+}
